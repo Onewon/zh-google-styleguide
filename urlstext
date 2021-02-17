@@ -4,3 +4,6 @@ https://coral.googlesource.com/busybox/+/refs/heads/release-chef/networking/nslo
 
 # StackOverflow
 https://stackoverflow.com/questions/12297500/python-module-for-nslookup
+
+# socket module
+https://github.com/python/cpython/blob/3.9/Modules/socketmodule.c
